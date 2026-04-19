@@ -1,8 +1,10 @@
 streamlit==1.29
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 numpy
 deepface
-opencv-python
-tf_keras
+opencv-python-headless
+tf-keras
 google-generativeai
 Pillow
+
