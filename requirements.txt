@@ -1,0 +1,8 @@
+streamlit==1.29
+torch
+numpy
+deepface
+opencv-python
+tf_keras
+google-generativeai
+Pillow
